@@ -1,7 +1,5 @@
-[
-  {
-    "name": "Test",
-    "thumbnail": "https://academic.aparsclassroom.com/_next/image?url=https%3A%2F%2Fapars.b-cdn.net%2Fvarsity%2Ffile-1779407800072-828533159.jpg&w=1920&q=75",
-    "video": "https://vz-50f80941-b7a.b-cdn.net/740f8d8d-44ee-4949-940b-9c0e2f2ec552/1080p/video.m3u8"
-  }
-]
+{
+  "name": "Test",
+  "thumbnail": "https://academic.aparsclassroom.com/_next/image?url=https%3A%2F%2Fapars.b-cdn.net%2Fvarsity%2Ffile-1779407800072-828533159.jpg&w=1920&q=75",
+  "video": "https://vz-50f80941-b7a.b-cdn.net/740f8d8d-44ee-4949-940b-9c0e2f2ec552/1080p/video.m3u8"
+}
