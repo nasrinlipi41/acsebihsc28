@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "name": "প্রোগ্রামিং ভাষা",
+    "thumbnail": "https://academic.aparsclassroom.com/_next/image?url=https%3A%2F%2Fapars.b-cdn.net%2Fvarsity%2Ffile-1780228930304-150316298.jpg&w=1920&q=75",
+    "video": "https://vz-50f80941-b7a.b-cdn.net/147b0f1f-14d0-4ce5-a55d-f6f0bec0ce4d/1080p/video.m3u8",
+    "lecture": "https://drive.google.com/u/0/uc?id=1_lWIFtjhfDUOuOm0HnCX7J4TuZMKurZT&export=download",
+    "practice": "https://drive.google.com/u/0/uc?id=12dbbx_exmVE3XpclZ8CNzZL6k7IS2A6n&export=download",
+    "solution": "https://drive.google.com/u/0/uc?id=1xX1FHAVkZ3ZEcHxshcsgiNkb-RFN761X&export=download"
+  },
+  {
+    "name": "প্রোগ্রামিং ভাষা",
+    "thumbnail": "https://academic.aparsclassroom.com/_next/image?url=https%3A%2F%2Fapars.b-cdn.net%2Fvarsity%2Ffile-1780229033815-627081147.jpg&w=1920&q=75",
+    "video": "https://vz-50f80941-b7a.b-cdn.net/59b1208c-94b7-4243-bbae-14d32bbc81d6/1080p/video.m3u8",
+    "lecture": "https://drive.google.com/u/0/uc?id=1UrRCbsFArH-iZymMk9BYGGThuaopwm7P&export=download",
+    "practice": "",
+    "solution": ""
+  }
+]
