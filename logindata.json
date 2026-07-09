@@ -1,34 +1,7 @@
-[
-  {
-    "username": "ahnafsaikat08",
-    "password": "@Saikat08_Myapp26@"
-  },
-  {
-    "username": "aura",
-    "password": "aura123"
-  },
-  {
-    "username": "trtajim",
-    "password": "tajim123"
-  },
-  {
-    "username": "asha08",
-    "password": "280323"
-  },
-  {
-    "username": "jakiabinte26",
-    "password": "030908"
-  },
-  {
-    "username": "aura2",
-    "password": "aura321"
-  },
-  {
-    "username": "aura3",
-    "password": "aura456"
-  },
-  {
-    "username": "aura4",
-    "password": "aura789"
-  }
-]
+{
+  "ahnafsaikat08": "@Saikat08_Myapp26@",
+  "trtajim": "tajim123",
+  "asha08": "280323",
+  "jakiabinte26": "030908",
+  "student": "12345"
+}
